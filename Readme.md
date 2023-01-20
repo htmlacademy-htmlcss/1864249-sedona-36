@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Evgenii](https://up.htmlacademy.ru/htmlcss/36/user/1864249).
-* Наставник: `Неизвестно`.
+* Наставник: [Константин Антонов](https://htmlacademy.ru/profile/rawle51).
 
 ---
 
